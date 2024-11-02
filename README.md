@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katya-d&label=Profile%20views&color=0e75b6&style=flat" alt="katya-d" /> </p>
 
-- 🔭 I’m currently working on **HTML/CSS Course**
+- 🔭 I’m currently working on **HTML/CSS, and JavaScript Course**
 
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **HTML/CSS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [htpps://delieva.com](htpps://delieva.com)
 
 - 📝 I regularly write articles on [htpps://delieva.com](htpps://delieva.com)
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **HTML/CSS and JavaScript**
 
 - 📫 How to reach me **delievabg@gmail.com**
 
