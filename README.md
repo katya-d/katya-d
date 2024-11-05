@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **HTML/CSS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [htpps://delieva.com](htpps://delieva.com)
+- 👨‍💻 All of my projects are available at [https://delieva.com](htpps://delieva.com)
 
-- 📝 I regularly write articles on [htpps://delieva.com](htpps://delieva.com)
+- 📝 I regularly write articles on [https://delieva.com](htpps://delieva.com)
 
 - 💬 Ask me about **HTML/CSS and JavaScript**
 
