@@ -63,8 +63,8 @@ When I'm not coding, I'm immersed in various creative and intellectual pursuits 
 
 ### 🎓 Completed Courses
 
-- **[HTML and CSS Course](https://softuni.bg/certificates/details/244150/3fe783c9)** - SoftUni
-- **[Complete Web Development Course](https://www.udemy.com/certificate/UC-83745c92-3b71-4826-90f7-fe32d7fce9c8/)** - Udemy
+- **[JavaScript Basics Course](https://softuni.bg/certificates/details/244150/3fe783c9)** - SoftUni
+- **[HTML and CSS Course](https://www.udemy.com/certificate/UC-83745c92-3b71-4826-90f7-fe32d7fce9c8/)** - Udemy
 
 ### 🌱 Currently Pursuing
 
