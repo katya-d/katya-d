@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=katya-d&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -21,6 +21,7 @@ I'm a passionate **Software Engineering student** currently pursuing my studies 
 I'm currently building my foundation in software development through comprehensive education and hands-on projects. My approach combines structured learning with practical application, ensuring I understand both the theory and real-world implementation of programming concepts.
 
 ### 🎯 Current Focus
+
 - Mastering JavaScript fundamentals and advanced concepts
 - Building responsive and accessible web applications
 - Learning modern development frameworks and tools
@@ -30,11 +31,13 @@ I'm currently building my foundation in software development through comprehensi
 ## 💻 Tech Stack
 
 ### Languages & Technologies
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -44,11 +47,13 @@ I'm currently building my foundation in software development through comprehensi
 When I'm not coding, I'm immersed in various creative and intellectual pursuits that inspire my work and keep me balanced:
 
 ### 🎼 Music
+
 - 🎹 **Piano** - My primary instrument for expressing creativity
 - 🎸 **Acoustic Guitar** - For those peaceful, melodic moments
 - 🎻 **Violin** - Classical training that teaches precision and patience
 
 ### 📚 Other Interests
+
 - 📖 **Reading** - Always exploring new books across various genres
 - 🎧 **Music Listening** - Discovering new artists and genres
 - 🎬 **Cinema** - Appreciating storytelling through film
@@ -57,10 +62,12 @@ When I'm not coding, I'm immersed in various creative and intellectual pursuits 
 ## 🏆 Certificates & Achievements
 
 ### 🎓 Completed Courses
+
 - **[HTML and CSS Course](https://softuni.bg/certificates/details/244150/3fe783c9)** - SoftUni
 - **[Complete Web Development Course](https://www.udemy.com/certificate/UC-83745c92-3b71-4826-90f7-fe32d7fce9c8/)** - Udemy
 
 ### 🌱 Currently Pursuing
+
 - Software Engineering with JavaScript - SoftUni (In Progress)
 
 ## 📈 GitHub Stats
@@ -97,7 +104,7 @@ I'm always excited to connect with fellow developers, musicians, and creative mi
 
 <div align="center">
 
-*"Code is like music. When it's well-written, it has rhythm, harmony, and tells a beautiful story."*
+_"Code is like music. When it's well-written, it has rhythm, harmony, and tells a beautiful story."_
 
 **Thanks for visiting my profile! 🌟**
 
