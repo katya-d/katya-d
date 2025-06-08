@@ -14,7 +14,7 @@ I'm a passionate **Software Engineering student** currently pursuing my studies 
 - 🎓 **Currently Learning:** Software Engineering with JavaScript at SoftUni
 - 💻 **Technologies:** HTML, CSS, JavaScript
 - 🌱 **Always Learning:** New technologies and best practices in web development
-- 📍 **Based in:** [Your Location]
+- 📍 **Based in:** Kazanlak
 
 ## 🚀 My Journey
 
