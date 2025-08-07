@@ -63,6 +63,7 @@ When I'm not coding, I'm immersed in various creative and intellectual pursuits 
 
 ### 🎓 Completed Courses
 
+- **[JavaScript Fundamentals Course](https://softuni.bg/certificates/details/248077/10586d4a)** - SoftUni
 - **[JavaScript Basics Course](https://softuni.bg/certificates/details/244150/3fe783c9)** - SoftUni
 - **[HTML and CSS Course](https://www.udemy.com/certificate/UC-83745c92-3b71-4826-90f7-fe32d7fce9c8/)** - Udemy
 
@@ -87,7 +88,7 @@ I'm always excited to connect with fellow developers, musicians, and creative mi
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-delieva.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://delieva.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katya-delieva-aaa337236/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delievabg@gmail.com)
 
 </div>
