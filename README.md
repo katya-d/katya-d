@@ -10,7 +10,7 @@
 
 I'm a passionate **Software Engineering student** currently pursuing my studies at **SoftUni** with a focus on **JavaScript development**. I'm on an exciting journey to become a full-stack developer, combining my love for technology with creative problem-solving.
 
-- 🌐 **Website:** [delieva.com](https://delieva.com)
+- 🌐 **Website:** [delieva.bg](https://delieva.bg)
 - 🎓 **Currently Learning:** Software Engineering with JavaScript at SoftUni
 - 💻 **Technologies:** HTML, CSS, JavaScript
 - 🌱 **Always Learning:** New technologies and best practices in web development
